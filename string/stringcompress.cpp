@@ -19,13 +19,6 @@ string compress(string str){
     return newStr;
 }
 
-
-
-
-
-
-
-
 int main() {
     string str = "aaabbbccc";
     cout << compress(str);
